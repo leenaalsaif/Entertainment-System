@@ -6,3 +6,5 @@ Many of us have free time on the weekends and want to watch a movie, whether we 
 ## About "Entertainment System"
 In our project, we made a program called “Entertainment System” and what our program does is that it lets the user access the program, by entering your name, age and email. Then the program will display a collection of movies, TV shows, and books based on your age and you can choose whatever you want depending on your age.
 
+## Contributors
+This was the final project of CS102 course at Prince Sultan University, and was created by Leena Alsaif, Reema Alomran, and Saja Alsultan.
